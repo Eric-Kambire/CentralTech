@@ -1,3 +1,3 @@
 # CentralTech
 Ecole Centrale Casablanca- CentralTech Club
-## Dowload and run **load**
+## Dowload and run **main**
